@@ -5,6 +5,8 @@ import java.util.ArrayList;
 public class main
 {
     public static void main(String[] args) {
+        int mm=34;
+        System.out.println("adnan");
         int a=8;
         String st="abcdef";
         ArrayList<String> words=new ArrayList();
