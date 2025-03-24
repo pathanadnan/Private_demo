@@ -9,6 +9,7 @@ public class prac {
         check(var1);
         check(var2);
         System.out.println(var1+"  "+var2[0]);
+        System.out.println("adnan khan");
     }
     public static void check(int a){
         a=a*2;
