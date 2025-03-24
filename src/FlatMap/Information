@@ -1,0 +1,4 @@
+- he is returning the group of collection in single collection
+-  for Example
+
+[[1,2,4],[344,6,45],[54,56,2]] => [1,2,4,344,6,45,54,56,2]
